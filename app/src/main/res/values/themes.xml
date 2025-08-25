@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PerfDaemon" parent="Theme.Material3.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/cyber_blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/cyber_green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <!-- Background colors. -->
+        <item name="android:colorBackground">@color/dark_background</item>
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="colorOnSurface">@color/cyber_blue</item>
+        
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/dark_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    
+    <style name="Theme.PerfDaemon.NoActionBar" parent="Theme.PerfDaemon">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

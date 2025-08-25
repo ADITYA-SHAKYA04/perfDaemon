@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Performance Profiler</string>
+    
+    <!-- Main Screen -->
+    <string name="monitoring_active">Monitoring Active</string>
+    <string name="monitoring_stopped">Monitoring Stopped</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    
+    <!-- Metrics -->
+    <string name="cpu_usage">CPU Usage</string>
+    <string name="memory_usage">Memory Usage</string>
+    <string name="disk_usage">Disk Usage</string>
+    <string name="network_usage">Network Usage</string>
+    <string name="cpu_frequency">CPU Frequency</string>
+    <string name="cpu_temperature">CPU Temperature</string>
+    
+    <!-- Units -->
+    <string name="percent">%</string>
+    <string name="megabytes">MB</string>
+    <string name="megahertz">MHz</string>
+    <string name="celsius">°C</string>
+    
+    <!-- Sections -->
+    <string name="cpu_performance">CPU Performance</string>
+    <string name="memory_stats">Memory Usage</string>
+    <string name="network_storage">Network &amp; Storage</string>
+    <string name="system_information">System Information</string>
+    
+    <!-- System Info -->
+    <string name="processes">Processes</string>
+    <string name="uptime">Uptime</string>
+    <string name="total_memory">Total Memory</string>
+    
+    <!-- Actions -->
+    <string name="settings">Settings</string>
+    <string name="dismiss">Dismiss</string>
+    
+    <!-- Messages -->
+    <string name="start_monitoring_message">Start monitoring to see metrics</string>
+    <string name="monitoring_error">Monitoring error occurred</string>
+    <string name="failed_to_start">Failed to start monitoring</string>
+    
+    <!-- Service -->
+    <string name="performance_monitor_service">Performance Monitor Service</string>
+    <string name="system_monitoring_active">System monitoring active</string>
+</resources>
